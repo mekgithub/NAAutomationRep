@@ -7,7 +7,7 @@ public class NewGitTest {
         System.out.println("6.Commit ");
         System.out.println("7.Commit ");
         System.out.println("8.Commit ");
-        System.out.println("9.Commit ");
+        System.out.println("10.Commit ");
     }
     }
     }
